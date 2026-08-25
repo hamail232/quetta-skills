@@ -1,0 +1,1 @@
+<?php require_once '../config/config.php';$pageTitle='Dashboard';require 'includes_admin_dashboard.php';
